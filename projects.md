@@ -6,7 +6,7 @@ title: SBN Projects
 
 ## Breast Cancer Prediction using TCGA DNA Methylation data
 
-<div style="text-align:center; font-size:60%; float:left;'>
+<div style="text-align:left; font-size:60%; float:left;">
 <img src="./images/Diff_meth_BreastCancer_vs_Normal.png" alt="" style="width:300px;">
 <img src="./images/CDH4_Diff_meth_BreastCancer_vs_Normal.png" alt="" style="width:300px;">
 </div>
