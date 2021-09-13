@@ -13,7 +13,7 @@ title: SBN Projects
 
 I developed Elastic Net and K-Nearest Neighbor models for predicting Breast Cancer using TCGA DNA Methylation beta values. 
 
-[Github](https://github.com/samuelbnkrumah/)
+[Github](https://github.com/samuelbnkrumah/Breast-Cancer-Pred)
 
 <br/>
 <br/>
