@@ -28,6 +28,12 @@ body {
     line-height: 1.5;
     color: #606c71;
 }
+.direction {
+            position: absolute;
+            bottom: 10px;
+            left: 19px;
+            font-size: 13px;
+}
 :root {
     --red: #b00;
     --blue: #4679bd;
