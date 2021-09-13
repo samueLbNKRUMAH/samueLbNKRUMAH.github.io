@@ -1,0 +1,46 @@
+element.style {
+}
+@media screen and (min-width: 64em)
+.front-page-header {
+    padding: 4rem 6rem;
+}
+.front-page-header {
+    color: #fff;
+    text-align: center;
+    background-color: var(--grad1);
+    background-image: -webkit-linear-gradient(to left, var(--grad1) , var(--grad2));
+    background-image: linear-gradient(120deg, var(--grad1) , var(--grad2));
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #606c71;
+}
+:root {
+    --red: #b00;
+    --blue: #4679bd;
+    --grad1: #0b8793;
+    --grad2: #360033;
+    --textColor: #7b39a2;
+    --grey: #ddd;
+    --W200: 200px;
+    --Lft: left;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
