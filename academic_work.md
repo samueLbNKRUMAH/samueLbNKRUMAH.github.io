@@ -5,7 +5,7 @@ title: SNB Publications
 <br/>
 
 ## Academic Work
-1. **Samuel Nkrumah** “Protein Folding from the Perspective of Chaperone Action”. *arXiv* (2019).
+1. **Samuel Nkrumah** “Protein Folding from the Perspective of Chaperone Action”. *arXiv* (2019). [Source](https://arxiv.org/abs/1911.11900).
 
 
 ## Presentations  
