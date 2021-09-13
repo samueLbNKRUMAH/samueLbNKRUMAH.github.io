@@ -182,11 +182,10 @@ sub {
  */
 
 img {
-  float:left;
-  margin-right:5px;
+  border: 0;
   width: 400px;
   height: 400px;
-
+  
 }
 
 /**
