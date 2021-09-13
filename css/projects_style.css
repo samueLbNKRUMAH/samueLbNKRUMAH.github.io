@@ -19,6 +19,12 @@ body {
     display: block;
     margin: 8px;
 }
+.direction {
+            position: absolute;
+            bottom: 10px;
+            left: 19px;
+            font-size: 13px;
+}
 :root {
     --red: #b00;
     --blue: #4679bd;
