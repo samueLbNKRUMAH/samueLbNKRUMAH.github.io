@@ -374,12 +374,13 @@ a {
 .site-footer-contact {
   display: block;
   text-align: center; 
-  font-size: 1.35em;}
+  font-size: 1.35em;
+  color: #36454F   }
 
 .site-footer-credits {
   font-size: 85%;
   opacity: 50%;
-  color: #819198; }
+  color: #36454F; }
 
 img[alt=myface] {
   
